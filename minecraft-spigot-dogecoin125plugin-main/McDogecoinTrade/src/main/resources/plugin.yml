@@ -1,0 +1,9 @@
+main: whitetac.spigotplugin.mcdoge125coin.App
+name: Mcdoge125coinTrade
+version: 1.0-SNAPSHOT
+api-version: 1.15
+depend: [Vault]
+commands:
+  doge125:
+    aliases: [buy, sell]
+    ussage: /command

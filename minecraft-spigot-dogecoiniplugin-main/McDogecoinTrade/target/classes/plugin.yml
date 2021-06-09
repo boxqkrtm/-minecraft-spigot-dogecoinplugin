@@ -1,0 +1,9 @@
+main: whitetac.spigotplugin.mcdogeicoin.App
+name: McdogeicoinTrade
+version: 1.0-SNAPSHOT
+api-version: 1.15
+depend: [Vault]
+commands:
+  dogei:
+    aliases: [buy, sell]
+    ussage: /command
